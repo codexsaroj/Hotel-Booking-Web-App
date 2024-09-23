@@ -39,8 +39,8 @@ This is a Hotel Booking Web App which allows users to book available rooms as pe
 4. Run the Spring Boot application:
     mvn spring-boot:run
    
-5. Frontend Setup
-    Navigate to the frontend directory:
+5. Frontend Setup:
+    Navigate to the frontend directory
 
 6. Install dependencies:
     npm install
